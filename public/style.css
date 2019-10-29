@@ -1,0 +1,64 @@
+body {
+    background:	#5a093b;
+    text-align: center;
+}
+ 
+h1 {
+     color: rgb(154, 245, 111);
+}
+
+h2 {
+	margin: 20px; 
+	color: white;
+}
+
+#callToAFriend,
+#halfOnHalf,
+#questionToTheCrowd {
+    height: 50px;
+    width: 250px;
+	margin: 30px;
+	font-size: 20px;
+	display: inline;
+	background-color: #0040ff;
+	color: #FAEBD7;
+}
+
+#question {
+    font-size: 30px;
+    margin: 30px;
+    color: white;
+}
+
+.answer-btn {
+    height: 50px;
+    width: 150px;
+	margin: 30px;
+	text-align: center;
+	font-size: 20px;
+	display: inline;
+	background-color: #0040ff;
+	color: #FAEBD7;
+	text-decoration: none; 
+}
+
+.answer-btn:hover {
+	color:  black;
+}
+
+#tip{
+    color: white;
+    font-size: 15px;
+}
+
+#callToAFriend:hover {
+    color:  black;
+}
+
+#halfOnHalf:hover {
+    color:  black;
+}
+
+#questionToTheCrowd:hover {
+    color:  black;
+}
